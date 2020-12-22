@@ -1,4 +1,5 @@
 <?php
 
-incude_one("index.html");
+include_once("index.html");
+
 ?>
