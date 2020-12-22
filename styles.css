@@ -1,0 +1,13 @@
+#info {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    color: white;
+    top: 40%;
+    margin: auto;
+	width: 100%;
+	text-align: center;
+    padding: 10px;
+    z-index: 200;
+	display:block;
+}
